@@ -1,0 +1,350 @@
+.logo{
+    height: 2.25rem;
+    width: 8.375rem;
+    margin-top: 20px;
+    margin-left: 35px;
+
+}
+.login{
+    width: 10%;
+    float: right;
+    left: 750px;
+    top: -36px;
+    margin-top: -30px;
+}
+.button{
+    height: 34px;
+    background-color: red;
+    margin-left: 5px;
+    padding: 7px;
+    position: relative;
+    right: 50px;
+    width: 84px;
+    font-size: 16px;
+    color: white;
+    
+}
+.choose{
+    height: 46px;
+    margin-right: 17px;
+    position: relative;
+    right: 90px;
+    width: 81px;
+    padding-left: 6px;
+    font-size: 15px;
+    background: rgba(0,0,0,.4);
+    border: 1px solid #aaa;
+    color: #fff;
+
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://github.com/lukephiliph/netflix/blob/main/IN-en-20220905-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-repeat:no-repeat ;
+}
+.center-text{
+    text-align: center;
+    padding: 300px 0;
+    font-size: larger;
+
+}
+.email{
+    height: 60px!important;
+    min-width: 450px;
+    font-size: 17px;
+    margin-right: 0;
+}
+.startb{
+    height: 63px;
+    width: 200px;
+    margin-left: -5px;
+    background-color: red;
+    font-size: 21px;
+    padding: .5rem 0;
+    color: white;
+    border-style: none;
+}
+.sec-part{
+    height: 700px;
+    width: 100%;
+    color: black;
+    background-color: black;
+    position: relative;
+    bottom: 101px;
+  }
+.sec-part img{
+    margin-left: 50%;
+    margin-top: 10%;
+    height: fit-content;
+    position: relative;
+    top: -108px;
+}
+.text{
+    position: relative;
+    left: 375px;
+    bottom: 800px;
+    width: 30%;
+    height: 50%;   
+}
+h1{
+    font-size: 60px;
+}
+.video{
+    position: relative;
+    left: 1036px;
+    bottom: 387px;
+    top: -500px
+}
+.third-part{
+    margin-left: 0%;
+    margin-top: 10%;
+    height: 100%;
+    position: relative;
+    top: -320px;
+    width: 100%;
+    background-color: black;
+  
+}
+.text2{
+    position: relative;
+    left: 845px;
+    bottom: 381px;
+    width: 50%;
+    height: 71%
+
+}
+.forth-part{
+    height: 700px;
+    width: 100%;
+    color: black;
+    background-color: black;
+    position: relative;
+    top: -340px;
+
+}
+.text3{
+    position: relative;
+    left: 324px;
+    bottom: 540px;
+    width: 30%;
+    height: 50%  
+}
+.third-img{
+    position: relative;
+    left: 234px;
+}
+.video2{
+    position: relative;
+    left: 1022px;
+    bottom: 627px;
+    top: -318px;
+    width: 397px;
+}
+.four-image{
+    position: relative;
+    left: 500px;
+    top: -100px;
+}
+.fifth-part{
+    position: relative;
+    position: relative;
+    left: 0px;
+    top: -340px;
+    background-color: black;
+
+}
+.fifth-img{
+    position: relative;
+    position: relative;
+    left: 300px;
+    bottom: 250px;
+
+}
+.text4{
+    position: relative;
+    left: 1027px;
+    bottom: 765px;
+    background-color: black;
+    width: 530px;
+}
+
+.last-tag{
+    font-weight: 400;
+    margin-bottom: 1px;
+    padding-right: 550px;
+    position: relative;
+    width: 72%;
+    bottom: 733px;
+    height: 180px;
+    left: 0px;
+    font-size: 27px;
+    text-align: right;
+}
+.para{
+    font-size: 30px;
+}
+.table{
+    position: relative;
+    text-align: center;
+    top: -200px;
+    
+}
+.sixth-part{
+    position: relative;
+    background-color: black;
+    width: 1920px;
+    top: 125px;
+    right: 0px;
+    height: 500px;
+}
+.button1{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400;
+}
+.button2{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400
+    
+}
+.button3{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400
+}
+.button4{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400
+}
+.button5{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400
+}
+.button6{
+    position: relative;
+    width: 1000px;
+    height: 60px;
+    padding-left: 30px;
+    font-size: 21px;
+    text-align: left;
+    background-color: #303030;
+    border-style: none;
+    color: white;
+    font-weight: 400
+}
+.email2{
+    height: 60px!important;
+    min-width: 450px;
+    font-size: 17px;
+    margin-right: 0;
+    position: relative;
+    right: 564px;
+    bottom: 140px;
+}
+.startb2{
+    height: 66px;
+    width: 250px;
+    margin-left: -5px;
+    background-color: red;
+    font-size: 27px;
+    padding: .5rem 0;
+    color: white;
+    border-style: none;
+    position: relative;
+    right: 566px;
+    bottom: 136px;
+}
+.last-txt{
+    position: relative;
+    bottom: 140px;
+    color: white;
+    font-size: 18px;
+    right: 625px;
+}
+.table2{
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+}
+.space{
+    position: relative;
+    top: 10px;
+    color: #737373;
+}
+.space2{
+    position: relative;
+    top: 20px;
+    color: #737373;
+}
+.space3{
+    position: relative;
+    top: 30px;
+    color: #737373;
+}
+.space4{
+    position: relative;
+    top: 40px;
+    color: #737373;
+}
+.footfont{
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+    font-size: 18px;
+    color: #737373;
+}
+.footer{
+    position: relative;
+    background-color: black;
+    bottom: 26px;
+}
+.form{
+    position: relative;
+    background-color: black;
+    bottom: 13px;
+}
+.border{
+    position: relative;
+    color: aliceblue;
+}
